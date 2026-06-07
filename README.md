@@ -6,10 +6,10 @@ In this project, Linear Regression is applied to predict house prices, demonstra
 # 🎯Objective: 
 The goal is to estimate property prices based on key features such as:
 
-Size (square footage)
-Number of bedrooms and bathrooms
-Location or neighborhood characteristics
-Additional property attributes (e.g., amenities, infrastructure, etc.)
+- Size (square footage). 
+- Number of bedrooms and bathrooms. 
+- Location or neighborhood characteristics
+- Additional property attributes (e.g., amenities, infrastructure, etc.)
 
 By learning patterns from historical housing data, the model is able to predict prices for new, unseen properties, supporting decision-making in real estate analysis and valuation.
 
