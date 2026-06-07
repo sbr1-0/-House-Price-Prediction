@@ -8,8 +8,8 @@ The goal is to estimate property prices based on key features such as:
 
 - Size (square footage). 
 - Number of bedrooms and bathrooms. 
-- Location or neighborhood characteristics
-- Additional property attributes (e.g., amenities, infrastructure, etc.)
+- Location or neighborhood characteristics.
+- Additional property attributes (e.g., amenities, infrastructure, etc.).
 
 By learning patterns from historical housing data, the model is able to predict prices for new, unseen properties, supporting decision-making in real estate analysis and valuation.
 
